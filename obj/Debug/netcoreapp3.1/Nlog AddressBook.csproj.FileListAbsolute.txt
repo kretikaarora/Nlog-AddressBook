@@ -14,3 +14,29 @@ C:\Users\Administrator\source\repos\Nlog AddressBook\Nlog AddressBook\bin\Debug\
 C:\Users\Administrator\source\repos\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\Administrator\source\repos\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\Administrator\source\repos\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Nlog AddressBook.exe
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Nlog AddressBook.deps.json
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Nlog AddressBook.runtimeconfig.json
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Nlog AddressBook.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Nlog AddressBook.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Nlog AddressBook.pdb
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.dll
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.pdb
+C:\Users\Administrator\Desktop\Nlog AddressBook\Nlog AddressBook\Nlog AddressBook\obj\Debug\netcoreapp3.1\Nlog AddressBook.genruntimeconfig.cache

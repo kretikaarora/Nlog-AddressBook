@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using NLog;
 
-namespace Nlog_AddressBook
+namespace NlogAddressBook
 {
-    class nlog
+    class NLog
     {
         private static readonly Logger logger = LogManager.GetCurrentClassLogger();
 

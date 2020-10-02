@@ -12,10 +12,10 @@ namespace NlogAddressBook
         public string address;
         public string city;
         public string state;
-        public long zip;
+        public double zip;
         public Double phoneNo;
         public string email;
-        public ContactPerson(string firstName, string lastName, string address, string city, string state, long zip, double phoneNo, string email)
+        public ContactPerson(string firstName, string lastName, string address, string city, string state, double zip, double phoneNo, string email)
 
         {
             this.firstName = firstName;

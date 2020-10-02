@@ -14,3 +14,8 @@
 2020-10-02 23:14:46.6815|INFO|NlogAddressBook.NLog|Contact Details Addition Succesful:AddDetailsOfPersons()
 2020-10-02 23:14:46.6815|ERROR|NlogAddressBook.NLog|invalid potal code, please enter a valid zip code 
 2020-10-02 23:14:46.6815|INFO|NlogAddressBook.NLog|Contact Details Addition Succesful:AddDetailsOfPersons()
+2020-10-02 23:45:56.5455|ERROR|NlogAddressBook.NLog|invalid potal code, please enter a valid zip code 
+2020-10-02 23:45:58.7107|INFO|NlogAddressBook.NLog|no more contacts given
+2020-10-02 23:49:42.1392|INFO|NlogAddressBook.NLog|Contact Details Addition Succesful:AddDetailsOfPersons()
+2020-10-02 23:49:43.8688|INFO|NlogAddressBook.NLog|no more contacts given
+2020-10-02 23:49:43.8688|DEBUG|NlogAddressBook.NLog|Displaying Contact Details Successful :DisplayContactPersonDetails()
